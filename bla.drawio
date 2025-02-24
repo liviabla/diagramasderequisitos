@@ -185,7 +185,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="B6VJBqqzBfHEsrgBE4s1-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="B6VJBqqzBfHEsrgBE4s1-1" value="funcionario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B6VJBqqzBfHEsrgBE4s1-2" value="gestao de reservas&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -199,6 +199,39 @@
               <mxPoint x="110" y="250" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B6VJBqqzBfHEsrgBE4s1-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="310" as="sourcePoint" />
+            <mxPoint x="160" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6VJBqqzBfHEsrgBE4s1-5" value="pagamento&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B6VJBqqzBfHEsrgBE4s1-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="B6VJBqqzBfHEsrgBE4s1-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="340" as="sourcePoint" />
+            <mxPoint x="170" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6VJBqqzBfHEsrgBE4s1-7" value="gestao de quartos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B6VJBqqzBfHEsrgBE4s1-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="180" as="sourcePoint" />
+            <mxPoint x="420" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6VJBqqzBfHEsrgBE4s1-9" value="comunicação com hospedes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="130" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
