@@ -271,34 +271,10 @@
             <mxPoint x="750" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9_uFgT-DAebTzDmZzJD_-25" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9_uFgT-DAebTzDmZzJD_-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="320" as="sourcePoint" />
-            <mxPoint x="750" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9_uFgT-DAebTzDmZzJD_-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.958;exitY=0.663;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9_uFgT-DAebTzDmZzJD_-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="315" as="sourcePoint" />
-            <mxPoint x="740" y="265" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9_uFgT-DAebTzDmZzJD_-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9_uFgT-DAebTzDmZzJD_-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="310" as="sourcePoint" />
             <mxPoint x="740" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9_uFgT-DAebTzDmZzJD_-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.975;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9_uFgT-DAebTzDmZzJD_-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="315" as="sourcePoint" />
-            <mxPoint x="740" y="265" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9_uFgT-DAebTzDmZzJD_-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9_uFgT-DAebTzDmZzJD_-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="310" as="sourcePoint" />
-            <mxPoint x="750" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9_uFgT-DAebTzDmZzJD_-30" value="funcionário da limpeza" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
