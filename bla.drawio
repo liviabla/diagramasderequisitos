@@ -458,10 +458,28 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qU6CV81Qrax8vCwsp8mn" name="Página-6">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pqffCtY0s8yHXaV5daZs-1" value="USUARIO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pqffCtY0s8yHXaV5daZs-3" value="criar cadastro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pqffCtY0s8yHXaV5daZs-4" value="ter alertas e notificaçoes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pqffCtY0s8yHXaV5daZs-5" value="backup" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pqffCtY0s8yHXaV5daZs-6" value="definir prioridades" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pqffCtY0s8yHXaV5daZs-7" value="histórico de tarefas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
