@@ -554,7 +554,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r1CS486bgMA01hDnAI-2-5" value="ediçao de tarefas" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="60" width="160" height="94" as="geometry" />
+          <mxGeometry x="690" y="113" width="160" height="94" as="geometry" />
         </mxCell>
         <mxCell id="r1CS486bgMA01hDnAI-2-6" value="prazo pra as tarefas limitado&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="r1CS486bgMA01hDnAI-2-5">
           <mxGeometry y="26" width="160" height="34" as="geometry" />
@@ -564,6 +564,9 @@
         </mxCell>
         <mxCell id="r1CS486bgMA01hDnAI-2-8" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="r1CS486bgMA01hDnAI-2-5">
           <mxGeometry y="68" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r1CS486bgMA01hDnAI-2-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Tarefa&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-70" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
