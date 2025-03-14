@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36" version="26.1.0" pages="7">
   <diagram name="Página-1" id="zCuswcaeGJQmjMraJhk2">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="utjubQz5dOFMOAZuYEvV" name="Página-4">
-    <mxGraphModel dx="945" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="378" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,7 +204,7 @@
           <mxGeometry x="320" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9_uFgT-DAebTzDmZzJD_-12" value="disponibilidade de quartos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9_uFgT-DAebTzDmZzJD_-13" value="gerenciamento estoque" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="480" width="120" height="80" as="geometry" />
@@ -567,7 +567,7 @@
         <mxCell id="kkvovoADCQaEO5b2ma1q-1" value="                                           requisitos funcionais" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="50" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8VvlSBWmPPnEAhbcaz9C-1" value="CADASTRO DO USUARIO&#xa;LOGIN E AUTENTICAÇÃO&#xa;SELECAO DE QUIZ&#xa;INICIO DO QUIZ&#xa;APRESENTAÇÃO DAS PERGUNTAS&#xa;CONTAGEM DE PONTOS&#xa;EXIBIÇÃO DE RESPOSTAS CORRETAS E ERRADAS" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8VvlSBWmPPnEAhbcaz9C-1" value="CADASTRO DO USUARIO &#xa;LOGIN E AUTENTICAÇÃO &#xa;SELECAO DE QUIZ &#xa;INICIO DO QUIZ &#xa;APRESENTAÇÃO DAS PERGUNTAS &#xa;CONTAGEM DE PONTOS &#xa;EXIBIÇÃO DE RESPOSTAS CORRETAS E ERRADAS" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="70" width="330" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8VvlSBWmPPnEAhbcaz9C-2" value="RF01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
